@@ -1,0 +1,58 @@
+{
+  "id": "c1785be3afe83a847598f5bfc32c3cd1",
+  "turn": "1160a883a7c116f38372b4049b99ad24",
+  "players": [
+    {
+      "id": "1160a883a7c116f38372b4049b99ad24",
+      "bank": {
+        "seeds": 1
+      },
+      "pits": [
+        {
+          "seeds": 0
+        },
+        {
+          "seeds": 7
+        },
+        {
+          "seeds": 7
+        },
+        {
+          "seeds": 7
+        },
+        {
+          "seeds": 7
+        },
+        {
+          "seeds": 7
+        }
+      ]
+    },
+    {
+      "id": "01fe0d8913c4762ff82f503fd1e5efd5",
+      "bank": {
+        "seeds": 0
+      },
+      "pits": [
+        {
+          "seeds": 6
+        },
+        {
+          "seeds": 6
+        },
+        {
+          "seeds": 6
+        },
+        {
+          "seeds": 6
+        },
+        {
+          "seeds": 6
+        },
+        {
+          "seeds": 6
+        }
+      ]
+    }
+  ]
+}
